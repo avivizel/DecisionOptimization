@@ -1,0 +1,26 @@
+Maximize total allocation
+	Maximize  total CountyDemand allocations 
+
+Balance gap between allocation and demand over CountyDemands
+	Balance total allocation of CountyDemand over CountyDemand 
+
+
+
+All CountyDemand allocations must be integer
+	All  CountyDemand allocations must be integer
+
+for each CountyDemand, allocation is less than or equal to Demand
+	For each  CountyDemand ,  allocation  is less than or equal to  demand 
+
+Total CountyDemand allocations is less or equal to max_budget of allocationsParametes
+	total allocation over all CountyDemands is less than or equal to max_budget of AllocationParameters
+
+
+
+
+
+
+Maximize total importanceFactor of product of allocation
+	Maximize total importanceFactor of product of CountyDemand of allocation 
+
+
